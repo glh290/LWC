@@ -19,9 +19,9 @@
     </ciManagement>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:Hidendra/LWC.git</developerConnection>
-        <connection>scm:git:git://github.com/Hidendra/LWC.git</connection>
-        <url>https://github.com/Hidendra/LWC</url>
+        <developerConnection>scm:git:git@github.com:glh290/LWC.git</developerConnection>
+        <connection>scm:git:git://github.com/glh290/LWC.git</connection>
+        <url>https://github.com/glh290/LWC</url>
     </scm>
 
     <modules>
